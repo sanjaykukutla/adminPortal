@@ -1,6 +1,6 @@
 # MEAN Stack Application
 
-This is a simple MEAN stack application that demonstrates how to build a full-stack web application using MongoDB, Express.js, Angular, and Node.js. 
+This is a simple MEAN stack application that demonstrates how to build a full-stack web application using MongoDB, Express.js, React, and Node.js. 
 
 ## Table of Contents
 
@@ -75,17 +75,8 @@ To run the application, follow these steps:
    ng serve
    ```
 
-   The Angular application will start, and you can access it at `http://localhost:4200`.
+   The React application will start, and you can access it at `http://localhost:3000`.
 
-## API Endpoints
-
-Here are some common API endpoints you can use:
-
-- `GET /api/employees` - Retrieve a list of employees
-- `POST /api/employees` - Create a new employee
-- `GET /api/employees/:id` - Get an employee by ID
-- `PUT /api/employees/:id` - Update an employee by ID
-- `DELETE /api/employees/:id` - Delete an employee by ID
 
 ## Contributing
 
